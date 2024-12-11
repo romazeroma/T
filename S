@@ -1,0 +1,1 @@
+:FFdt=2EEC63CE :FFrn64=1 :FFrss64=0,-8 :FFrss65=0,И :FFrss66=0,Шинный з-д :FFrss67=0,1 :FFrn65=1 :FFrss68=0,-8 :FFrss69=0,И :FFrss70=0,Шинный з-д :FFrss71=0,2 :FFrn1=8 :FFrn2=2 :FFrn3=100 :FFnvn0=1 :FFrs0=8,Табло ITLINE работает в тестовом режиме. ЉЊЌЋЏђљњќћ #4t #0g :FFmode=1
